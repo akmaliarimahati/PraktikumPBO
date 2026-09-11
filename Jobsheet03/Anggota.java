@@ -34,6 +34,12 @@ public class Anggota {
     }
 
     public void angsur(double nominal) {
-        jumlahPinjaman -= nominal;
+        double minimalAngsuran = 0.10 * jumlahPinjaman;
+        
+        if (nominal < minimalAngsuran) {
+            System.out.println("Maaf, angsuran harus minimal 10% dari jumlah pinjaman!");
+        } else {
+            jumlahPinjaman -= nominal;
+        }
     }
 }
