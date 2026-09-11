@@ -30,7 +30,7 @@ public class SpeakerDemo {
         sp2.model = "Go 3";
         sp2.harga = 500000;
         sp2.volume = 30;
-        sp2.mode = "Radio";
+        sp2.mode = "Bluetooth";
         
         System.out.println("=== Speaker 2 ===");
         System.out.println("Merk        : " + sp2.merk);

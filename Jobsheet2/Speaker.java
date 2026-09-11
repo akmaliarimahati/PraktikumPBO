@@ -16,7 +16,7 @@ public class Speaker {
     }
 
     public void menghubungkan() {
-        System.out.println(" terhubung ke " + merk + " " + model);
+        System.out.println("Bluetooth terhubung ke " + merk + " " + model);
     }
 
     public void menambahVolume(int increment) {
