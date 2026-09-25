@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+import Kuis1.Pelanggan;
+
 public class Pesanan {
     private String idPesanan;
     private String tanggal;
