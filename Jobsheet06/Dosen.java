@@ -1,6 +1,8 @@
 package Jobsheet06;
 
 class Dosen extends Pegawai{
+    public String nidn;
+    
     public Dosen() {
         System.out.println("Objek dari clas Dosen dibuat");
     }
