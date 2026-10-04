@@ -1,3 +1,5 @@
+package Jobsheet06.Tugas;
+
 public class ProdukKonsumsi {
     // ini pake protectedbiar bisa dipake sama anak nya
     protected String namaProduk;

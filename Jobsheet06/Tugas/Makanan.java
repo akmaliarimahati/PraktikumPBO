@@ -1,3 +1,5 @@
+package Jobsheet06.Tugas;
+
 public class Makanan extends ProdukKonsumsi{
     // extend menunjukkan anaknya
     private String jenisMakanan;
@@ -24,3 +26,4 @@ public class Makanan extends ProdukKonsumsi{
         System.out.println("Jenis Makanan   : " + jenisMakanan);
     }
 }
+

@@ -1,3 +1,5 @@
+package Jobsheet06.Tugas;
+
 public class ProdukKonsumsiMain {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package Jobsheet06.Tugas;
+
 public class Minuman extends ProdukKonsumsi{
     private String varianMinuman;
 
