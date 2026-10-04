@@ -1,7 +1,5 @@
 // package Jobsheet04;
 
-import Kuis1.Pelanggan;
-
 public class SkincareDemo {
     public static void main(String[] args) {
         // Membuat objek produk skincare

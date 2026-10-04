@@ -1,6 +1,5 @@
+// package Jobsheet04;
 import java.util.ArrayList;
-
-import Kuis1.Pelanggan;
 
 public class Pesanan {
     private String idPesanan;
