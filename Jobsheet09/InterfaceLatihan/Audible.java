@@ -1,0 +1,6 @@
+package Jobsheet09.InterfaceLatihan;
+
+public interface Audible {
+    void naikkanVolume(int increment);
+    void turunkanVolume(int decrement);
+}
